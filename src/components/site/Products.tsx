@@ -63,7 +63,7 @@ export function Products() {
               <h3 className="mt-5 font-display text-lg font-semibold">{name}</h3>
               <p className="mt-2 text-sm text-muted-foreground leading-relaxed">{desc}</p>
               <div className="mt-5 inline-flex items-center gap-1 text-sm font-medium text-foreground/80 group-hover:text-primary transition-colors">
-                Learn more
+                Explore {name}
                 <ArrowUpRight className="h-3.5 w-3.5 transition-transform group-hover:translate-x-0.5 group-hover:-translate-y-0.5" />
               </div>
             </article>

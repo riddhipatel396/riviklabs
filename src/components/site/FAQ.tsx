@@ -5,7 +5,7 @@ import {
   AccordionTrigger,
 } from "@/components/ui/accordion";
 
-const faqs = [
+export const faqs = [
   { q: "Who builds Rivik Labs products?", a: "A small, independent team of designers and engineers who care deeply about craft." },
   { q: "Are your apps available on Android?", a: "Yes — most of our apps ship for Android, and several are also available on web." },
   { q: "Will there be iOS apps?", a: "Yes. iOS versions are on the roadmap for our current and upcoming products." },

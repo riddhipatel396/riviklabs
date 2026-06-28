@@ -1,0 +1,9 @@
+# Rivik Labs
+
+> Independent software studio building AI-powered apps, mobile experiences, and productivity tools that help people work smarter and live better.
+
+Rivik Labs designs and ships thoughtfully crafted software — including AI Career Copilot, Focus Timer, Expense Tracker, and more — with a focus on privacy, performance, and beautiful interfaces.
+
+## Pages
+
+- [Home](/): Overview of Rivik Labs, our products, process, and how to get in touch.

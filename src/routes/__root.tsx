@@ -123,6 +123,15 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
           url: "/",
         }),
       },
+      {
+        type: "application/ld+json",
+        children: JSON.stringify({
+          "@context": "https://schema.org",
+          "@type": "WebSite",
+          name: "Rivik Labs",
+          url: "/",
+        }),
+      },
     ],
   }),
   shellComponent: RootShell,
